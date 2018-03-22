@@ -1,0 +1,34 @@
+body {
+    background-color:#c5d2db;
+}
+
+p {
+    font-family: Times, serif, "Times New Roman";
+    margin: 10px 50px 50px 10px;
+}
+
+h2 {
+    font-family:Cochin, Georgia, Garamond, 'Times New Roman', Times, serif;
+    background-color:#e7b183;
+    font-style:italic;
+    text-align:center;
+}
+
+.more {
+    text-align: left;
+}
+
+div.container {
+    margin: 20px;
+}
+
+div p {
+    text-align: center;
+}
+    
+#myHeader {
+    padding: 1px;
+    text-align:center;
+    color: black;
+    background-color:#e7b183;
+}
